@@ -16,6 +16,8 @@ Paraplatyarthrus	'#ff6fcf'	Crinocheta
 Haplophthalmus	'#ff00ff'	Synocheta
 Hyloniscus	'#ff00ff'	Synocheta
 Trichoniscus	'#ff00ff'	Synocheta
+Titanethes	'#ff00ff'	Synocheta
+Alpioniscus	'#ff00ff'	Synocheta
 Helleria	'#cc66ff'	Tylida
 Tylos	'#cc66ff'	Tylida
 Ligia	'#8000ff'	Diplocheta
@@ -23,9 +25,11 @@ Bathynomus	'#0080ff'	Cymothooidea
 Ceratothoa	'#0080ff'	Cymothooidea
 Cymothoa	'#0080ff'	Cymothooidea
 Norileca	'#0080ff'	Cymothooidea
-Glyptonotus	'#6666ff'	Valvifera
-Idotea	'#6666ff'	Valvifera
+Glyptonotus	'#66ccff'	Valvifera
+Idotea	'#66ccff'	Valvifera
 Sphaeroma	'#0000ff'	Sphaeromatoidea
+Monolistra	'#0000ff'	Sphaeromatoidea
+Lekanesphaera	'#0000ff'	Sphaeromatoidea
 Limnoria	'#00ffff'	Limnoriidea
 Portunion	'#ff8000'	Bopyridea
 Asellus	'#008000'	Aselloidea
