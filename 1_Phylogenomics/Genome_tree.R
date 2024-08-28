@@ -3,12 +3,6 @@ library(gtable)
 library(ggplot2)
 library(ggrepel)
 
-#IsopodatreeGenome<-read.tree("Isopoda.Gnathid.mafft.supermx.tree")
-#meta<-read.table("Figures_R/Metadata_genome_Gnathiid.table",header=TRUE)
-
-#p <- ggtree(IsopodatreeGenome) + geom_text(aes(label=node))
-#rotate(tree_view = NULL, node)
-#print(meta)
 
 IsopodatreeGenome<-read.tree("Isopoda.all.fsa.trim.concordance.cf.tree")
 meta<-read.table("Figures_R/Metadata_genome.table",header=TRUE)
